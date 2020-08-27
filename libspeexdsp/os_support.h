@@ -39,7 +39,7 @@
 #include <stdlib.h>
 
 #ifdef HAVE_CONFIG_H
-#include "config.h"
+#include "speexdsp_config.h"
 #endif
 #ifdef OS_SUPPORT_CUSTOM
 #include "os_support_custom.h"

@@ -13,7 +13,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 */
 
 #ifdef HAVE_CONFIG_H
-#include "config.h"
+#include "speexdsp_config.h"
 #endif
 
 #include "os_support.h"

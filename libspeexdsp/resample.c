@@ -58,7 +58,7 @@
 */
 
 #ifdef HAVE_CONFIG_H
-#include "config.h"
+#include "speexdsp_config.h"
 #endif
 
 #ifdef OUTSIDE_SPEEX

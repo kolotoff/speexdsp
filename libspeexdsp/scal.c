@@ -41,7 +41,7 @@ The algorithm implemented here is described in:
 */
 
 #ifdef HAVE_CONFIG_H
-#include "config.h"
+#include "speexdsp_config.h"
 #endif
 
 #include "speex/speex_echo.h"
